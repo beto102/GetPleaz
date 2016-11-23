@@ -4,7 +4,7 @@
   "description": "A web application that allows a group to create a grocery list. ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"webpack-dev-server"
   },
   "author": "Alberto Zambrana",
   "license": "ISC",
